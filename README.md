@@ -1,4 +1,5 @@
 # go-2048
+![Test](./../../actions/workflows/test.yaml/badge.svg)  
 
 ![2048](https://raw.githubusercontent.com/NI57721/go-2048/assets/screenshot.png)
 
